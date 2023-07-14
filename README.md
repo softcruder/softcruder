@@ -11,10 +11,10 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm recently got a Diploma at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Vue.
+- 💡 Fun fact: I recently got a Diploma at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 🌱 I’m currently working with JavaScript, and frameworks like Reactjs, and Vue.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, Customer Engineering, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://softcruder.me/resume) and contact me by emailing [softcruder@gmail.com](mailto:softcruder@gmail.com).
 
 ---
